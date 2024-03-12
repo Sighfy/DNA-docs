@@ -22,7 +22,7 @@ This Privacy Policy informs you of our policies regarding the collection, use, a
 
 ### Data Collection
 
-We collect certain information from users of the Bot for the purpose of providing its functionality. The information collected includes Discord user IDs and EPIC RPG Discord Bot information such as time travel and level. This information is securely saved and protected.
+We collect certain information from users of the Bot for the purpose of providing its functionality. The information collected includes Discord user IDs, optional time zone information, and EPIC RPG Discord Bot information such as time travel and level. This information is securely saved and protected.
 
 ### Data Usage
 
